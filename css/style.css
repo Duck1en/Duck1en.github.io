@@ -1,0 +1,39 @@
+#title {
+  background-color: #2c2e44;
+  color: #fff;
+}
+.masonry {
+  box-sizing: border-box;
+}
+h1 {
+  font-weight: bold;
+  font-size: 4rem;
+  line-height: 1.5;
+}
+h2 {
+  font-weight: bold;
+  font-size: 3rem;
+  text-align: center;
+  padding: 2%;
+}
+.container-fluid {
+  padding: 3% 15%;
+}
+.title-img {
+  width: 100%;
+  margin-left: 60px;
+  padding: 5%;
+}
+blockquote {
+  font-style: italic;
+}
+#masonry {
+  padding: 1% 10%;
+  justify-content: center;
+}
+.card-image-top {
+  width: 50%;
+}
+.card {
+  margin-bottom: 10px;
+}
